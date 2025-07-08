@@ -6,10 +6,9 @@ It is functionally similar to the [Request Header Parser Microservice](https://r
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-> Coming soon — deploy on [Render](https://render.com), [Vercel](https://vercel.com/), or [Glitch](https://glitch.com/) and link it here.
-
+[http://localhost:3000/api/](http://localhost:3000/api/)
 ---
 [.gitignore](.gitignore)
 ## 🧠 How It Works
